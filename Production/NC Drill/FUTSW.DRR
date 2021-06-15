@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: FUTSW.PcbDoc   15.06.2021  22:29:42
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : FUTSW.TXT
+EIA File   : FUTSW.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             114       PTH        22.72inch (577.06mm)
+T2      30mil (0.762mm)                                           Round             3         PTH        0.34inch (8.67mm)
+T3      36mil (0.919mm)                                           Round             4         PTH        0.26inch (6.50mm)
+T4      40mil (1.016mm)                                           Round             71        PTH        14.74inch (374.52mm)
+T5      61mil (1.549mm)                                           Round             12        PTH        3.60inch (91.41mm)
+T6      91mil (2.301mm)                                           Round             2         PTH        0.47inch (12.04mm)
+T7      118mil (3mm)                                              Round             3         PTH        6.06inch (154.00mm)
+T8      83mil (2.101mm)                                           Round             2         NPTH       1.15inch (29.21mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              211
+
+Total Processing Time (hh:mm:ss) : 00:00:00
